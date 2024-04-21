@@ -6,7 +6,3 @@
 * HTML
 * CSS
 
-## Link De Visualizacao
-
-[Reverse](https://reverse-the-order.vercel.app/)
-
